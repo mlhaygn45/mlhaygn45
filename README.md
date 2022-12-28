@@ -1,7 +1,10 @@
-<h1 align="left">Hello 👋, I'm MELİH</h1>
+<h1 align="left">Hello 👋, I'm MELİH</h1> <br>
+
+<h2 align="center">I am a Fronted Developer since 2022 August as full time</h2>
 <ul>
-<li>I am a Fronted Developer since 6 months<li>
-<li🌱 I’m currently learning JS REACT ><li>
+  
+<li>I love to learn, improve myself and write code </li>
+<li>🌱 I’m currently learning JS REACT ></li>
 </ul>
 
 - 💬 Ask me about **HTML,CSS JS,B**
